@@ -1,5 +1,5 @@
-package chapter2.abstraction.v1;
+package chapter2.polymorphism;
 
 public interface LifeForm {
-    void exist(); // 공통 : 모든 생명체는 존재한다.
+    public void exist(); // 공통 : 모든 생명체는 존재한다.
 }

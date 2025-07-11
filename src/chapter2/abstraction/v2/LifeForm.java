@@ -1,5 +1,8 @@
-package chapter2.abstraction;
+package chapter2.abstraction.v2;
 
-public interface LifeForm {
-    void exist(); // 공통 : 모든 생명체는 존재한다.
+public class LifeForm {
+    public void exist() {
+        System.out.println("생명체는 존재합니다.");
+    }
+    // 공통 : 모든 생명체는 존재한다.
 }

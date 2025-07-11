@@ -1,6 +1,6 @@
-package chapter2.abstraction;
+package chapter2.abstraction.v1;
 
-public class Cat implements Animal{
+public class Cat implements Animal {
     @Override
     public void exist() {
         System.out.println("고양이가 존재합니다.");

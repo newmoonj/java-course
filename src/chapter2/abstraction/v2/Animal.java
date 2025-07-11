@@ -1,7 +1,9 @@
-package chapter2.abstraction;
+package chapter2.abstraction.v2;
 
-public interface Animal extends LifeForm {
+public class Animal extends LifeForm {
 
-    void makeSound(); // 공통 : 모든 동물은 소리를 냅니다.
+    public void makeSound(){
+        System.out.println("동물은 소리를 냅니다.");
+    } // 공통 : 모든 동물은 소리를 냅니다.
 
 }

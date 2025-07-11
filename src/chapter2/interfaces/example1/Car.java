@@ -1,4 +1,4 @@
-package chapter2.interfaces;
+package chapter2.interfaces.example1;
 
 public interface Car {
     void drive();

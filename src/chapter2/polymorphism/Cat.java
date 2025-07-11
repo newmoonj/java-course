@@ -1,4 +1,4 @@
-package chapter2.abstraction.v1;
+package chapter2.polymorphism;
 
 public class Cat implements Animal {
     @Override

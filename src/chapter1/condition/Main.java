@@ -1,4 +1,4 @@
-package chapter3.exceptions.stream;
+package chapter1.condition;
 
 public class Main {
     public static void main(String[] args) {
