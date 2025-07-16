@@ -1,7 +1,5 @@
 package chapter2.wrapper;
 
-import com.sun.org.glassfish.external.statistics.CountStatistic;
-
 public class Main {
     public static void main(String[] args) {
         // 기본형 변수
