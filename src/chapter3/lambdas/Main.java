@@ -1,4 +1,4 @@
-package chapter3.exceptions.lambdas;
+package chapter3.lambdas;
 
 public class Main {
     public static void main(String[] args) {
